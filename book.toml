@@ -1,0 +1,6 @@
+[book]
+authors = ["bcoderlife"]
+language = "en"
+multilingual = false
+src = "src"
+title = "ops chapbook"
